@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T19:28:30.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="nVIr_o99GIETHxKsc01s" version="18.0.2" type="github"><diagram id="MFhtGyjAUJYwwNoKWrQx" name="Page-1">jZJNb4MwDIZ/TY6TgIyPHjfWdZW2Uzf1HBGXRAuYpWHAfv2gmAKqJk3KIXle2/EX42nR7qyo1BtKMCzwZMv4EwsC/z4I2HA82Y0kDu9HkFstyWgGB/0DBD2itZZwXhk6RON0tYYZliVkbsWEtdiszU5o1r9WIocbcMiEuaVHLZ0i6kebWXgBnSv6OgniUSjEZEyVnJWQ2CwQ3zKeWkQ33oo2BTM0b+rL6Pf8h3pNzELp/uOQFN3X8YPX+yY4hfuH5P01qu8oyrcwNRVMybpu6oDFupQwBPEZf2yUdnCoRDaoTT/znilXGJJP2pgUDdqLLwdfhhD3/OwsfsJC2UQxF1Gv3JYx5QTWQbtAVNYOsABnu96E1Ig6TCsW0rNZzMtLCKrFrOJpNIKWJL+GnvvYX6iV03Me2UVbLD7f/gI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-22T19:56:07.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="UlQT0e-3_YfoVnuvOPQQ" version="18.0.2" type="github">
+  <diagram id="MFhtGyjAUJYwwNoKWrQx" name="Page-1">
+    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8myqWU3uIw2f5IA8TL6u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="60" y="50" width="1080" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="99" y="110" width="170" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="526" y="110" width="170" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="738" y="111" width="160" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-6" value="Build" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/apps/control-center2.png" vertex="1" parent="1">
+          <mxGeometry x="157" y="121" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-7" value="Train" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/training-128.png;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="129" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-10" value="Infer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/brain-think-brainstorm-creative-idea-128.png;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="585" y="126" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-11" value="Govern" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/law-scale-justice-judge-balance-128.png;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="793" y="128" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="110" width="160" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-15" value="Orchestration" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_pipeline;fillColor=#F58534;gradientColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="996.25" y="126" width="47.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="186" y="200" width="79" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="102" y="200" width="79" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-16" value="Programming&amp;nbsp;&lt;br&gt;Language" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/language-128.png;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="206" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-20" value="Machine&amp;nbsp;&lt;br&gt;Learning" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.machine_learning;fillColor=#2E73B8;gradientColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="210" width="45.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ioV9flkuyXsG-FMAAsZz-21" value="" style="editableCssRules=.*;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjExLjI1OTk5OTI3NTIwNzUyIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCAyMCAxMS4yNTk5OTkyNzUyMDc1MiI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzQyODVmNDt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00LjY4IDEuNDJIMi40MkwwIDUuNjdsMi40MiA0LjI2aDIuMjZMMi4yNyA1LjY3eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0wIDUuNjdsMS4xMSAxLjk3IDEuNDYtMS40NS0uMy0uNTJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTEzIDBINy4xMkwzLjgxIDUuNjNsMy4zMSA1LjU5SDEzbDMuMjktNS41OXptLTIuOTMgOC4zNmEyLjY0IDIuNjQgMCAxIDEgMi42Ni0yLjY0IDIuNjUgMi42NSAwIDAgMS0yLjY2IDIuNjR6TTIuNDIgMS40MkwwIDUuNjlsMS4xMSAxLjk3IDEuMTYtMS45NyAyLjQxLTQuMjd6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTEzIC4wOGgwbC0xLjcgMy4zM2EyLjY2IDIuNjYgMCAwIDEtMS4yNSA1IDIuNjIgMi42MiAwIDAgMS0xLjE4LS4yN2wtMS43NSAzLjEySDEzbDMuMjktNS42M3ptMi4zMiA5Ljg1aDIuMjdMMjAgNS42N2wtMi40MS00LjI1aC0yLjI3bDIuNDEgNC4yNXoiPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMCA1LjY3TDE4Ljg5IDMuN2wtMS40NiAxLjQ2LjMuNTF6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTE3LjU5IDkuOTNMMjAgNS42NWwtMS4xMS0xLjk3LTEuMTYgMS45Ny0yLjQxIDQuMjh6Ii8+JiN4YTs8L3BhdGg+PC9zdmc+;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="146.73" y="570" width="74.55" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
