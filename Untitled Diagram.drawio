@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T12:10:30.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="qpUnsAVv3xlAexKDH3bg" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-23T12:11:12.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="gAYxiFkIsVVoZo2NYuth" version="18.0.2" type="github" pages="4">
   <diagram id="MFhtGyjAUJYwwNoKWrQx" name="Datalab UK tooling roadmap">
     <mxGraphModel dx="2188" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -704,6 +704,9 @@
         </mxCell>
         <mxCell id="Z0kQR43ZipjU0oGExU-e-1" value="EventHub" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Event_Hub_Clusters.svg;" vertex="1" parent="1">
           <mxGeometry x="266.31" y="1015.6" width="49" height="39.81" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0kQR43ZipjU0oGExU-e-2" value="Synapse" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="267.54" y="1241" width="40.87" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
