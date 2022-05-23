@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T20:46:44.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="K9_C8JMC6yA0-5kC9Clg" version="18.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-23T20:47:03.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="aheqiMDhqxZJAl8mE49X" version="18.0.8" type="github" pages="2">
   <diagram id="YW9oBpU5XqSgaz3gqE9R" name="Data dev and Engineering tooling roadmap">
     <mxGraphModel dx="1443" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -924,9 +924,6 @@
         <mxCell id="rtf_--NEePpTi7d3R8Qf-229" value="Polybase" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1988.7299999999998" y="734.75" width="38.01" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rtf_--NEePpTi7d3R8Qf-248" value="BICOE Tooling Roadmap" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1574" y="34" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="rtf_--NEePpTi7d3R8Qf-249" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="1277.03" y="104" width="261.97" height="250" as="geometry" />
         </mxCell>
@@ -997,7 +994,7 @@
           <mxGeometry x="1638.77" y="203.56" width="86.23" height="26.2" as="geometry" />
         </mxCell>
         <mxCell id="rtf_--NEePpTi7d3R8Qf-286" value="BICOE Tooling Roadmap" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1846.95" y="39.81999999999999" width="100" height="40" as="geometry" />
+          <mxGeometry x="1612.5900000000001" y="39.81999999999999" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtf_--NEePpTi7d3R8Qf-287" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="1829" y="120.46" width="261.97" height="139.54" as="geometry" />
