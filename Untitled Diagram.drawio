@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T13:29:51.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="m8aCVWYCbOLqszpsC7JF" version="18.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-23T13:31:32.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="x68gi-fueko5zZFVE2z8" version="18.0.8" type="github" pages="4">
   <diagram id="MFhtGyjAUJYwwNoKWrQx" name="Datalab UK tooling roadmap">
     <mxGraphModel dx="1564" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -645,7 +645,7 @@
           <mxGeometry x="295" y="240" width="198" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="Y1NgywDRrbaYFFEKXyF2-12" value="DVM" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="345" y="18.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="483" y="17.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y1NgywDRrbaYFFEKXyF2-13" value="Growth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="4" y="6.6299999999999955" width="46.13" height="16.87" as="geometry" />
@@ -693,7 +693,7 @@
           <mxGeometry x="624.25" y="63.75" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Z86LhmYMoE5E1dVEXve7-1" value="Business Glossory" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/for-your-interface-free-samples/128/Book-128.png" vertex="1" parent="1">
-          <mxGeometry x="110.97" y="122" width="64" height="64" as="geometry" />
+          <mxGeometry x="125" y="145" width="34.97" height="34.97" as="geometry" />
         </mxCell>
         <mxCell id="Z86LhmYMoE5E1dVEXve7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="32.97" y="436.5" width="210" height="284.5" as="geometry" />
