@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T13:48:57.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Vuy_WUEfzfddNgHROCrF" version="18.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-23T13:49:51.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rD4SHz_zRAxwvN6-VC9K" version="18.0.8" type="github" pages="4">
   <diagram id="MFhtGyjAUJYwwNoKWrQx" name="Datalab UK tooling roadmap">
     <mxGraphModel dx="1564" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -605,12 +605,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5yGb0rS_VtjpZh7ev8fc" name="DVM Roadmap">
-    <mxGraphModel dx="1564" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3910" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y1NgywDRrbaYFFEKXyF2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="15" y="17.5" width="1072" height="1492.5" as="geometry" />
+          <mxGeometry x="15" y="17.5" width="2135" height="1672.5" as="geometry" />
         </mxCell>
         <mxCell id="Y1NgywDRrbaYFFEKXyF2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="27" y="67.5" width="235" height="1382.5" as="geometry" />
@@ -882,25 +882,25 @@
           <mxGeometry x="544.75" y="541.31" width="192.5" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-104" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="546" y="567.81" width="186" height="20" as="geometry" />
+          <mxGeometry x="546" y="578.81" width="186" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-105" value="Metadata Harvesting (Automated)&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/gnomeicontheme/24x24/stock/table/stock_insert-columns.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#4277BB;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="633" y="464.81" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="616.31" width="210" height="148.5" as="geometry" />
+          <mxGeometry x="540" y="627.31" width="210" height="148.5" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-107" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="546.25" y="674.81" width="198" height="20" as="geometry" />
+          <mxGeometry x="546.25" y="685.81" width="198" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="547.75" y="698.31" width="192.5" height="16.5" as="geometry" />
+          <mxGeometry x="547.75" y="709.31" width="192.5" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="549" y="724.81" width="186" height="20" as="geometry" />
+          <mxGeometry x="549" y="735.81" width="186" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-110" value="Metadata Modelling" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/546_3d_cube_dimensional_modelling_sketch_game_design_development-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#4277BB;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="636" y="621.81" width="28" height="28" as="geometry" />
+          <mxGeometry x="636" y="632.81" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="777" y="70.5" width="240" height="900" as="geometry" />
@@ -909,7 +909,7 @@
           <mxGeometry x="879.25" y="74.25" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="793.25" y="142.38" width="210" height="260.38" as="geometry" />
+          <mxGeometry x="793.25" y="140" width="210" height="262.76" as="geometry" />
         </mxCell>
         <mxCell id="_LAer7wNyjHyTCwdpfrY-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="798.25" y="208.12" width="198" height="51.88" as="geometry" />
