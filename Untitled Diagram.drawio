@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T16:37:56.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_yh6B_EyaB_-EOqEl7oB" version="18.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-23T16:38:06.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NBpDBcHhVpTDs4kS8vOr" version="18.0.8" type="github" pages="2">
   <diagram id="MFhtGyjAUJYwwNoKWrQx" name="Datalab UK tooling roadmap">
     <mxGraphModel dx="1564" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1435,14 +1435,6 @@
         <mxCell id="sCVbdlCIOYm4BeLbrBVb-42" value="Postgres" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="1233.75" y="1216" width="24" height="32" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="IZLDTAv16X2r8LitJcNx" name="Data Development and Engineering Tooling Roadmap">
-    <mxGraphModel dx="1564" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
